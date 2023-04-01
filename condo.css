@@ -1,0 +1,31 @@
+.search{ background-color: #f93232; width: 40px; height: 40px;border-radius: 80px;  
+display: flex; justify-content: center; align-items: center;
+}
+.div0{ display: grid; grid-template-columns: 50px auto;
+    font-size: xx-large ; font-weight: bolder; color: #f93232;}
+.div1{ margin-left: 200px; display: flex; border: 1px solid black; width: 350px;height: 60px; align-items: center; justify-content: center; border-radius: 30px;}
+.person{width: 180px;height: 60px; display: flex; border: 1px solid black; justify-content: center; align-items: center; justify-content: space-around; border-radius: 45px;}
+.left span {font-size: larger;}
+.left{ display: grid; grid-template-columns: auto auto auto;align-items: center; justify-content: center; gap:30px}
+.head {  display: grid; grid-template-columns:auto auto auto; margin: 30px;
+padding-left:40px ;
+}
+
+.nav {display: grid; grid-template-columns: auto auto auto 
+    auto auto auto auto auto auto auto auto auto auto auto auto auto;
+padding-left: 55px;
+margin-right:-35px ;
+}
+.nav div  {text-align: center;} 
+.filter{display: flex; border: 1px solid black; border-radius: 12px; width: 90px; justify-content: center; justify-content: space-around; height: 40px; align-items: center;}
+.content{ display: grid; grid-template-columns: auto auto auto auto ;
+grid-template-rows: auto auto auto auto auto auto auto auto
+;  margin-top: 45px; margin-left: 20px;
+}
+.pic{display: flex; }
+#two{margin-left:-30px ; margin-top: 10px;}
+#tt{margin-top: 350px ; margin-left: -35px;}
+
+#img{border-radius: 20px;}
+.fin{  display: grid;grid-column: 1 /5;grid-template-columns:auto auto auto auto ;}
+.text{display: flex; margin-top: -60px; margin-left: 6px;}
